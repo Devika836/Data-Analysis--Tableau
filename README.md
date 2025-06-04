@@ -1,20 +1,27 @@
-#### Data-Analysis--Tableau
-## Project description: The project overviews the total chocolate-sales-analysis report by using different visuals like pie charts, tables, bar graphs, maps. Using tableau an interactive dashboards was created to visually explore. 
+Data Visualization Using Tableau
 
-### Tool used : 
-Tableau for data visualization,
-Excel/CV for cleaning and preparing data,
+Project Description:
 
-### Features :
-Interactive filters for different analyzing,
-Geographical map showing country-wise total amount of the product,
-Top 10 sales person who shipped the products,
+This project demonstrates how to use Tableau, a leading data visualization and business intelligence tool, to analyze and present data in an interactive and visually appealing format. Tableau enables users to connect to various data sources, perform exploratory data analysis, and create dashboards that reveal key insights.
 
-### Objectives:
-To identify total amount by each product,
-No. of boxes shipped by top 10 sales persons,
-Country-wise sum of the amount of the product,
+The project includes:
 
-###Outcome:
-The final tableau dashboards users to interactively explore types of chocolates delivered by each sales person produced by each country.
+Importing data from Excel, CSV, databases, or web sources
 
+Cleaning and transforming data within Tableau using Data Interpreter and calculated fields
+
+Building interactive charts such as bar charts, line graphs, maps, scatter plots, and heatmaps
+
+Creating dashboards with filters, actions, and drill-down features for enhanced user interaction
+
+Tools & Technologies:
+
+Tableau Desktop / Tableau Public
+
+Tableau Data Interpreter & Calculated Fields
+
+Excel/CSV or database as data source
+
+###Files included:
+Chocolate-sales analysis.twb
+sample-data.csv
