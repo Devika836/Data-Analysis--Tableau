@@ -24,4 +24,8 @@ Excel/CSV or database as data source
 
 ###Files included:
 Chocolate-sales analysis.twb
-sample-data.csv
+sample-data.xlsx
+
+###Tools used:
+Tableau
+Excel/CSV
